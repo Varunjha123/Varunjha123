@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Varun jha
-- 👀 I’m interested in Data Analyst / Business Analyst
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analysis
+- 👀 I’m interested in Data Engineer / Data Analyst / Business Analyst 
+- 🌱 I’m currently learning Next-gen AI tech in data science
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me jhavarun888@gmail.com
   
 
